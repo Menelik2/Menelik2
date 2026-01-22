@@ -86,7 +86,7 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
   <a href="https://menelik-six.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/menelik_admasu/" target="_blank">
+  <a href="https://et.linkedin.com/in/menelik7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/menelik2" target="_blank">
