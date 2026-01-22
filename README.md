@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=650&height=60&color=1F5297&pause=1500&lines=Hey%2C+I'm+Eyob+Lakew;Full-Stack+Engineer;AI+Agent+Specialist](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Menelik+Admasu;Full+Stack+Engineer+; Computer+Networking+And+Hardware+Specialist"
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=650&height=60&color=1F5297&pause=1500&lines=Hey%2C+I'm+Eyob+Lakew;Full-Stack+Engineer;AI+Agent+Specialist](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Menelik+Admasu;Full+Stack+Engineer+;Computer+Networking+And+Hardware"
     alt="Typing SVG"
   />
 </h1>
@@ -40,8 +40,7 @@
 ### Core Stack (day-to-day)
 
 **Backend:** Python · FastAPI · Node.js · PHP/Laravel  
-**Frontend:** React · Vue · Tailwind CSS · Flutter · HTML5/CSS3  
-**AI & Automation:** LangChain · LangGraph · OpenAI · n8n · Celery · Redis  
+**Frontend:** React · Vue · Tailwind CSS · Flutter · HTML5/CSS3   
 **Data & Infra:** PostgreSQL · MySQL · MongoDB · Supabase · Docker · AWS  
 
 Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Telegram bot development**, **Arduino**, and **technical SEO**.
@@ -69,7 +68,7 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
   />
   <img
     width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=eyobelakew&theme=transparent&date_format=j%20M%5B%20Y%5D&border_radius=10"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Menelik2&theme=transparent&date_format=j%20M%5B%20Y%5D&border_radius=10"
     alt="Menelik's GitHub streak stats"
   />
   <img
