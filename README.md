@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyobelakew&label=Profile%20views&color=0e75b6&style=flat" alt="eyobelakew" />
+  <img src="https://komarev.com/ghpvc/?username=eyobelakew&label=Profile%20views&color=0e75b6&style=flat" alt="menelik" />
 </p>
 
 <h1 align="center">
   <img
-    src="[https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=650&height=60&color=1F5297&pause=1500&lines=Hey%2C+I'm+Eyob+Lakew;Full-Stack+Engineer;AI+Agent+Specialist](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Menelik+Admasu;Full+Stack+Engineer+;Computer+Networking+And+Hardware+Specialist)"
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=650&height=60&color=1F5297&pause=1500&lines=Hey%2C+I'm+Eyob+Lakew;Full-Stack+Engineer;AI+Agent+Specialist](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Menelik+Admasu;Full+Stack+Engineer+;Computer+Networking+And+Hardware+Specialist"
     alt="Typing SVG"
   />
 </h1>
@@ -64,17 +64,17 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
 <div align="center">
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=eyobelakew&show_icons=true&rank_icon=github&count_private=true&theme=transparent&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=menelik&show_icons=true&rank_icon=github&count_private=true&theme=transparent&locale=en"
     alt="Eyob's GitHub stats"
   />
   <img
     width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=eyobelakew&theme=transparent&date_format=j%20M%5B%20Y%5D&border_radius=10"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=menelik&theme=transparent&date_format=j%20M%5B%20Y%5D&border_radius=10"
     alt="Eyob's GitHub streak stats"
   />
   <img
     width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=eyobelakew&show_icons=true&layout=compact&langs_count=8&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=menelik&show_icons=true&layout=compact&langs_count=8&theme=transparent"
     alt="Most used languages"
   />
 </div>
