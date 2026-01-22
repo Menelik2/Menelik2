@@ -63,8 +63,8 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
 <div align="center">
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=menelik&show_icons=true&rank_icon=github&count_private=true&theme=transparent&locale=en"
-    alt="Eyob's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=Menelik2&show_icons=true&rank_icon=github&count_private=true&theme=transparent&locale=en"
+    alt="Menelik's GitHub stats"
   />
   <img
     width="390"
@@ -73,7 +73,7 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
   />
   <img
     width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=menelik&show_icons=true&layout=compact&langs_count=8&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Menelik2&show_icons=true&layout=compact&langs_count=8&theme=transparent"
     alt="Most used languages"
   />
 </div>
