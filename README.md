@@ -73,7 +73,7 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
   />
   <img
     width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langsusername=Menelik2&show_icons=true&layout=compact&langs_count=8&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs username=Menelik2&show_icons=true&layout=compact&langs_count=8&theme=transparent"
     alt="Most used languages"
   />
 </div>
