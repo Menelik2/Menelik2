@@ -66,11 +66,8 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
     src="https://github-readme-stats.vercel.app/api?username=Menelik2&show_icons=true&rank_icon=github&count_private=true&theme=transparent&locale=en"
     alt="Menelik's GitHub stats"
   />
-  <img
-    width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Menelik2&theme=github-dark-blue&border_radius=10"
-    alt="Menelik's GitHub streak stats"
-  />
+ <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Menelik2&theme=github-dark-blue&border_radius=10" alt="Menelik's GitHub streak stats"/>
+
   <img
     width="325"
     src="https://github-readme-stats.vercel.app/api/top-langs username=Menelik2&show_icons=true&layout=compact&langs_count=8&theme=transparent"
