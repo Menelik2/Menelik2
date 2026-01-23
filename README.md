@@ -68,7 +68,7 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
   />
 <img 
   width="390"
-  src="https://github-readme-streak-stats.herokuapp.com?user=Menelik2&date_format=M%20j%5B%2C%20Y%5D" 
+  src="https://streak-stats.demolab.com/?user=Menelik2&date_format=M%20j%5B%2C%20Y%5D" 
   alt="Menelik's GitHub streak stats"/>
  <img
     width="325"
