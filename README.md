@@ -69,7 +69,11 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
 <img 
   width="390"
   src="https://streak-stats.demolab.com/?user=Menelik2&date_format=M%20j%5B%2C%20Y%5D" 
-  alt="Menelik's GitHub streak stats"/>
+  alt="Menelik's GitHub streak stats"
+  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Menelik2" alt="GitHub Streak" /></a>
+
+  
  <img
     width="325"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Menelik2&show_icons=true&layout=compact&langs_count=8&theme=transparent"
